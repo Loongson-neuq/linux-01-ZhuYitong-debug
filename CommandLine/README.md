@@ -10,7 +10,7 @@
 [caiyi@archlinux ~]$ git --version
 ```
 
-你能获取到的信息：
+你能获取到的信息：在linux系统终端输入 查看git是否成功安装 如果安装成功 将会显示安装的git的版本
 
 ```
 
@@ -24,7 +24,7 @@ Type help for instructions on how to use fish
 caiyi@LAPTOP-I80ETG8J ~> git --version
 ```
 
-你能获取到的信息：
+你能获取到的信息：在fish shell输入 同样返回git是否成功安装以及安装的git的版本
 
 ```
 
