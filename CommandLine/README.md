@@ -37,7 +37,7 @@ caiyi@LAPTOP-I80ETG8J ~> git --version
 你能获取到的信息：
 
 ```
-
+zsh
 ```
 
 ### 4
@@ -47,7 +47,7 @@ caiyi@LAPTOP-I80ETG8J ~> git --version
 你能获取到的信息：
 
 ```
-
+fish
 ```
 
 ### 5
@@ -132,7 +132,7 @@ $ git --version
 
 1. 给出一个常用的打印文件内容的命令： ____ cat 
 
-2. 给出一个常用的创建空文件夹的命令：____ touch 
+2. 给出一个常用的创建空文件夹的命令：____ touch (创建空文件 mkdir)
 
 3. 如果我下载了一个 a.out 没有执行权限，你应该输入什么命令： ____ chomd
 
