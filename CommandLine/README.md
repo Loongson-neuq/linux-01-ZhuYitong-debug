@@ -10,10 +10,10 @@
 [caiyi@archlinux ~]$ git --version
 ```
 
-你能获取到的信息：在linux系统终端输入 查看git是否成功安装 如果安装成功 将会显示安装的git的版本
+你能获取到的信息：
 
 ```
-
+在linux系统终端输入 查看git是否成功安装 如果安装成功 将会显示安装的git的版本
 ```
 
 ### 2
@@ -24,10 +24,10 @@ Type help for instructions on how to use fish
 caiyi@LAPTOP-I80ETG8J ~> git --version
 ```
 
-你能获取到的信息：在fish shell输入 同样返回git是否成功安装以及安装的git的版本
+你能获取到的信息：
 
 ```
-
+在fish shell输入 同样返回git是否成功安装以及安装的git的版本
 ```
 
 ### 3
@@ -61,10 +61,10 @@ Install the latest PowerShell for new features and improvements! https://aka.ms/
 PS C:\Users\Caiyi Hsu>
 ```
 
-你能获取到的信息： 系统提示点击网址更新powershell 当前路径是C:\Users\Caiyi Hsu>
+你能获取到的信息： 
 
 ```
-
+系统提示点击网址更新powershell 当前路径是C:\Users\Caiyi Hsu>
 ```
 
 ### 6
@@ -74,10 +74,10 @@ Caiyi Hsu@LAPTOP-I80ETG8J MINGW64 ~
 $ git --version
 ```
 
-你能获取到的信息：正在使用git bash 在用git --version检查下载的git的版本
+你能获取到的信息：
 
 ```
-
+正在使用git bash 在用git --version检查下载的git的版本
 ```
 
 ## 编写命令
@@ -130,13 +130,13 @@ $ git --version
 
 ## 填空题
 
-1. 给出一个常用的打印文件内容的命令：____
+1. 给出一个常用的打印文件内容的命令： ____ cat 
 
-2. 给出一个常用的创建空文件夹的命令：____
+2. 给出一个常用的创建空文件夹的命令：____ touch 
 
-3. 如果我下载了一个 a.out 没有执行权限，你应该输入什么命令：____
+3. 如果我下载了一个 a.out 没有执行权限，你应该输入什么命令： ____ chomd
 
-4. 在 Shell 中输出 "Hello, world" 的命令：____
+4. 在 Shell 中输出 "Hello, world" 的命令： ____ echo "Hello, world"
 
 ## 简答题
 
