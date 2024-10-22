@@ -61,7 +61,7 @@ Install the latest PowerShell for new features and improvements! https://aka.ms/
 PS C:\Users\Caiyi Hsu>
 ```
 
-你能获取到的信息：
+你能获取到的信息： 系统提示点击网址更新powershell 当前路径是C:\Users\Caiyi Hsu>
 
 ```
 
@@ -74,7 +74,7 @@ Caiyi Hsu@LAPTOP-I80ETG8J MINGW64 ~
 $ git --version
 ```
 
-你能获取到的信息：
+你能获取到的信息：正在使用git bash 在用git --version检查下载的git的版本
 
 ```
 
